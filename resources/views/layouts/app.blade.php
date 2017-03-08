@@ -1,11 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
     <meta charset="utf-8"/>
     <title>Dashboard - Ace Admin</title>
-
     <meta name="description" content="overview &amp; stats"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
 
@@ -43,7 +41,9 @@
     <![endif]-->
 </head>
 <body class="no-skin">
-@include('partial.navbar')
+@section('navbar')
+    @include('partial.navbar')
+@show
 <div class="main-container ace-save-state" id="main-container">
     <script type="text/javascript">
         try {
@@ -51,7 +51,11 @@
         } catch (e) {
         }
     </script>
-    @include('partial.sidebar')
+
+    @section('sidebar')
+        @include('partial.sidebar')
+    @show
+
     <div class="main-content">
         <div class="main-content-inner">
             @section('breadcrumbs')
@@ -66,7 +70,6 @@
     @include('partial.footer')
     @include('partial.scroll-up')
 </div><!-- /.main-container -->
-
 
 <!-- basic scripts -->
 <!--[if !IE]> -->

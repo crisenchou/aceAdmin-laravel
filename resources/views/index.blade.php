@@ -1193,7 +1193,6 @@
 
 @push('scripts')
 
-
 <!--[if lte IE 8]>
     <script src="assets/js/excanvas.min.js"></script>
     <![endif]-->
