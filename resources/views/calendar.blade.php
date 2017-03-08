@@ -1,11 +1,8 @@
 @extends('layouts.app')
-
 @push('css')
 <link rel="stylesheet" href="assets/css/jquery-ui.custom.min.css" />
 <link rel="stylesheet" href="assets/css/fullcalendar.min.css" />
 @endpush
-
-
 @section('breadcrumbs')
 	<div class="breadcrumbs ace-save-state" id="breadcrumbs">
 		<ul class="breadcrumb">

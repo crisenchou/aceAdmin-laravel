@@ -1,4 +1,7 @@
 @extends('layouts.app')
+@push('css')
+<link rel="stylesheet" href="assets/css/dropzone.min.css" />
+@endpush
 @section('breadcrumbs')
 	<div class="breadcrumbs ace-save-state" id="breadcrumbs">
 		<ul class="breadcrumb">
@@ -98,6 +101,8 @@
 	</div><!-- /.row -->
 @endsection
 @push('scripts')
+<!-- page specific plugin scripts -->
+<script src="assets/js/dropzone.min.js"></script>
 <!-- inline scripts related to this page -->
 <script type="text/javascript">
 	jQuery(function($){
