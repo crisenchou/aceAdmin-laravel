@@ -45,9 +45,9 @@
                         <h1>
                             <i class="ace-icon fa fa-leaf green"></i>
                             <span class="red">Ace</span>
-                            <span class="white" id="id-text2">Application</span>
+                            <span class="white" id="id-text2">系统</span>
                         </h1>
-                        <h4 class="blue" id="id-company-text">&copy; Company Name</h4>
+                        <h4 class="blue" id="id-company-text">&copy; xxxxxx</h4>
                     </div>
 
                     <div class="space-6"></div>
@@ -57,15 +57,15 @@
                     <div class="navbar-fixed-top align-right">
                         <br/>
                         &nbsp;
-                        <a id="btn-login-dark" href="#">Dark</a>
+                        <a id="btn-login-dark" href="#">黑</a>
                         &nbsp;
                         <span class="blue">/</span>
                         &nbsp;
-                        <a id="btn-login-blur" href="#">Blur</a>
+                        <a id="btn-login-blur" href="#">暗</a>
                         &nbsp;
                         <span class="blue">/</span>
                         &nbsp;
-                        <a id="btn-login-light" href="#">Light</a>
+                        <a id="btn-login-light" href="#">亮</a>
                         &nbsp; &nbsp; &nbsp;
                     </div>
                 </div>

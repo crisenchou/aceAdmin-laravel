@@ -19,4 +19,3 @@ Route::get('/', function () {
 Route::get('/{page}.html', function ($page) {
     return view($page);
 });
-

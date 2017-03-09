@@ -370,11 +370,12 @@
             </div>
         </div><!-- /.sidebar-shortcuts -->
 
+
         <ul class="nav nav-list">
             <li class="hover">
                 <a href="index.html">
                     <i class="menu-icon fa fa-tachometer"></i>
-                    <span class="menu-text"> Dashboard </span>
+                    <span class="menu-text"> 控制台 </span>
                 </a>
 
                 <b class="arrow"></b>
@@ -384,7 +385,7 @@
                 <a href="#" class="dropdown-toggle">
                     <i class="menu-icon fa fa-desktop"></i>
                     <span class="menu-text">
-								UI &amp; Elements
+								UI &amp; 元素
 							</span>
 
                     <b class="arrow fa fa-angle-down"></b>
@@ -397,7 +398,7 @@
                         <a href="#" class="dropdown-toggle">
                             <i class="menu-icon fa fa-caret-right"></i>
 
-                            Layouts
+                            布局
                             <b class="arrow fa fa-angle-down"></b>
                         </a>
 
@@ -407,7 +408,7 @@
                             <li class="active hover">
                                 <a href="top-menu.html">
                                     <i class="menu-icon fa fa-caret-right"></i>
-                                    Top Menu
+                                    顶部菜单
                                 </a>
 
                                 <b class="arrow"></b>
@@ -416,7 +417,7 @@
                             <li class="hover">
                                 <a href="two-menu-1.html">
                                     <i class="menu-icon fa fa-caret-right"></i>
-                                    Two Menus 1
+                                    左侧+顶部菜单1
                                 </a>
 
                                 <b class="arrow"></b>
@@ -425,7 +426,7 @@
                             <li class="hover">
                                 <a href="two-menu-2.html">
                                     <i class="menu-icon fa fa-caret-right"></i>
-                                    Two Menus 2
+                                    左侧+顶部菜单2
                                 </a>
 
                                 <b class="arrow"></b>
@@ -434,7 +435,7 @@
                             <li class="hover">
                                 <a href="mobile-menu-1.html">
                                     <i class="menu-icon fa fa-caret-right"></i>
-                                    Default Mobile Menu
+                                    默认移动风格菜单
                                 </a>
 
                                 <b class="arrow"></b>
@@ -443,7 +444,7 @@
                             <li class="hover">
                                 <a href="mobile-menu-2.html">
                                     <i class="menu-icon fa fa-caret-right"></i>
-                                    Mobile Menu 2
+                                    移动风格菜单2
                                 </a>
 
                                 <b class="arrow"></b>
@@ -452,7 +453,7 @@
                             <li class="hover">
                                 <a href="mobile-menu-3.html">
                                     <i class="menu-icon fa fa-caret-right"></i>
-                                    Mobile Menu 3
+                                    移动风格菜单3
                                 </a>
 
                                 <b class="arrow"></b>
@@ -463,7 +464,7 @@
                     <li class="hover">
                         <a href="typography.html">
                             <i class="menu-icon fa fa-caret-right"></i>
-                            Typography
+                            排版
                         </a>
 
                         <b class="arrow"></b>
@@ -472,7 +473,7 @@
                     <li class="hover">
                         <a href="elements.html">
                             <i class="menu-icon fa fa-caret-right"></i>
-                            Elements
+                            元素
                         </a>
 
                         <b class="arrow"></b>
@@ -481,7 +482,7 @@
                     <li class="hover">
                         <a href="buttons.html">
                             <i class="menu-icon fa fa-caret-right"></i>
-                            Buttons &amp; Icons
+                            按钮 &amp; 图标i
                         </a>
 
                         <b class="arrow"></b>
@@ -490,7 +491,7 @@
                     <li class="hover">
                         <a href="content-slider.html">
                             <i class="menu-icon fa fa-caret-right"></i>
-                            Content Sliders
+                            内容滑块
                         </a>
 
                         <b class="arrow"></b>
@@ -499,7 +500,7 @@
                     <li class="hover">
                         <a href="treeview.html">
                             <i class="menu-icon fa fa-caret-right"></i>
-                            Treeview
+                            树状视图
                         </a>
 
                         <b class="arrow"></b>
@@ -517,7 +518,7 @@
                     <li class="hover">
                         <a href="nestable-list.html">
                             <i class="menu-icon fa fa-caret-right"></i>
-                            Nestable Lists
+                           可嵌套列表
                         </a>
 
                         <b class="arrow"></b>
@@ -527,7 +528,7 @@
                         <a href="#" class="dropdown-toggle">
                             <i class="menu-icon fa fa-caret-right"></i>
 
-                            Three Level Menu
+                            三级菜单
                             <b class="arrow fa fa-angle-down"></b>
                         </a>
 
@@ -537,7 +538,7 @@
                             <li class="hover">
                                 <a href="#">
                                     <i class="menu-icon fa fa-leaf green"></i>
-                                    Item #1
+                                    条目 #1
                                 </a>
 
                                 <b class="arrow"></b>
@@ -547,7 +548,7 @@
                                 <a href="#" class="dropdown-toggle">
                                     <i class="menu-icon fa fa-pencil orange"></i>
 
-                                    4th level
+                                    四级菜单
                                     <b class="arrow fa fa-angle-down"></b>
                                 </a>
 
@@ -557,7 +558,7 @@
                                     <li class="hover">
                                         <a href="#">
                                             <i class="menu-icon fa fa-plus purple"></i>
-                                            Add Product
+                                            增加产品
                                         </a>
 
                                         <b class="arrow"></b>
@@ -566,7 +567,7 @@
                                     <li class="hover">
                                         <a href="#">
                                             <i class="menu-icon fa fa-eye pink"></i>
-                                            View Products
+                                            查看产品
                                         </a>
 
                                         <b class="arrow"></b>
@@ -581,7 +582,7 @@
             <li class="hover">
                 <a href="#" class="dropdown-toggle">
                     <i class="menu-icon fa fa-list"></i>
-                    <span class="menu-text"> Tables </span>
+                    <span class="menu-text"> 表格 </span>
 
                     <b class="arrow fa fa-angle-down"></b>
                 </a>
@@ -592,7 +593,7 @@
                     <li class="hover">
                         <a href="tables.html">
                             <i class="menu-icon fa fa-caret-right"></i>
-                            Simple &amp; Dynamic
+                            简单 &amp; 动态
                         </a>
 
                         <b class="arrow"></b>
@@ -601,7 +602,7 @@
                     <li class="hover">
                         <a href="jqgrid.html">
                             <i class="menu-icon fa fa-caret-right"></i>
-                            jqGrid plugin
+                            jqGrid插件
                         </a>
 
                         <b class="arrow"></b>
@@ -612,7 +613,7 @@
             <li class="hover">
                 <a href="#" class="dropdown-toggle">
                     <i class="menu-icon fa fa-pencil-square-o"></i>
-                    <span class="menu-text"> Forms </span>
+                    <span class="menu-text"> 表单 </span>
 
                     <b class="arrow fa fa-angle-down"></b>
                 </a>
@@ -623,7 +624,7 @@
                     <li class="hover">
                         <a href="form-elements.html">
                             <i class="menu-icon fa fa-caret-right"></i>
-                            Form Elements
+                            表单元素
                         </a>
 
                         <b class="arrow"></b>
@@ -632,7 +633,7 @@
                     <li class="hover">
                         <a href="form-elements-2.html">
                             <i class="menu-icon fa fa-caret-right"></i>
-                            Form Elements 2
+                            表单元素2
                         </a>
 
                         <b class="arrow"></b>
@@ -641,7 +642,7 @@
                     <li class="hover">
                         <a href="form-wizard.html">
                             <i class="menu-icon fa fa-caret-right"></i>
-                            Wizard &amp; Validation
+                            向导 &amp; 验证
                         </a>
 
                         <b class="arrow"></b>
@@ -650,7 +651,7 @@
                     <li class="hover">
                         <a href="wysiwyg.html">
                             <i class="menu-icon fa fa-caret-right"></i>
-                            Wysiwyg &amp; Markdown
+                            富文本编辑器 &amp; Markdown
                         </a>
 
                         <b class="arrow"></b>
@@ -659,7 +660,7 @@
                     <li class="hover">
                         <a href="dropzone.html">
                             <i class="menu-icon fa fa-caret-right"></i>
-                            Dropzone File Upload
+                            拖拽上传
                         </a>
 
                         <b class="arrow"></b>
@@ -670,7 +671,7 @@
             <li class="hover">
                 <a href="widgets.html">
                     <i class="menu-icon fa fa-list-alt"></i>
-                    <span class="menu-text"> Widgets </span>
+                    <span class="menu-text"> 小部件 </span>
                 </a>
 
                 <b class="arrow"></b>
@@ -681,7 +682,7 @@
                     <i class="menu-icon fa fa-calendar"></i>
 
                     <span class="menu-text">
-								Calendar
+								日历
 
 								<span class="badge badge-transparent tooltip-error" title="2 Important Events">
 									<i class="ace-icon fa fa-exclamation-triangle red bigger-130"></i>
@@ -695,7 +696,7 @@
             <li class="hover">
                 <a href="gallery.html">
                     <i class="menu-icon fa fa-picture-o"></i>
-                    <span class="menu-text"> Gallery </span>
+                    <span class="menu-text"> 相册 </span>
                 </a>
 
                 <b class="arrow"></b>
@@ -704,7 +705,7 @@
             <li class="hover">
                 <a href="#" class="dropdown-toggle">
                     <i class="menu-icon fa fa-tag"></i>
-                    <span class="menu-text"> More Pages </span>
+                    <span class="menu-text"> 更多页面 </span>
 
                     <b class="arrow fa fa-angle-down"></b>
                 </a>
@@ -715,7 +716,7 @@
                     <li class="hover">
                         <a href="profile.html">
                             <i class="menu-icon fa fa-caret-right"></i>
-                            User Profile
+                            个人中心
                         </a>
 
                         <b class="arrow"></b>
@@ -724,7 +725,7 @@
                     <li class="hover">
                         <a href="inbox.html">
                             <i class="menu-icon fa fa-caret-right"></i>
-                            Inbox
+                            收件箱
                         </a>
 
                         <b class="arrow"></b>
@@ -733,7 +734,7 @@
                     <li class="hover">
                         <a href="pricing.html">
                             <i class="menu-icon fa fa-caret-right"></i>
-                            Pricing Tables
+                            价格表
                         </a>
 
                         <b class="arrow"></b>
@@ -742,7 +743,7 @@
                     <li class="hover">
                         <a href="invoice.html">
                             <i class="menu-icon fa fa-caret-right"></i>
-                            Invoice
+                            发货单
                         </a>
 
                         <b class="arrow"></b>
@@ -751,7 +752,7 @@
                     <li class="hover">
                         <a href="timeline.html">
                             <i class="menu-icon fa fa-caret-right"></i>
-                            Timeline
+                            时间轴
                         </a>
 
                         <b class="arrow"></b>
@@ -760,7 +761,7 @@
                     <li class="hover">
                         <a href="search.html">
                             <i class="menu-icon fa fa-caret-right"></i>
-                            Search Results
+                            搜索结果
                         </a>
 
                         <b class="arrow"></b>
@@ -769,7 +770,7 @@
                     <li class="hover">
                         <a href="email.html">
                             <i class="menu-icon fa fa-caret-right"></i>
-                            Email Templates
+                            邮件模版
                         </a>
 
                         <b class="arrow"></b>
@@ -778,7 +779,7 @@
                     <li class="hover">
                         <a href="login.html">
                             <i class="menu-icon fa fa-caret-right"></i>
-                            Login &amp; Register
+                            登录 &amp; 注册
                         </a>
 
                         <b class="arrow"></b>
@@ -791,7 +792,7 @@
                     <i class="menu-icon fa fa-file-o"></i>
 
                     <span class="menu-text">
-								Other Pages
+								其他页面
 
 								<span class="badge badge-primary">5</span>
 							</span>
@@ -841,7 +842,7 @@
                     <li class="hover">
                         <a href="blank.html">
                             <i class="menu-icon fa fa-caret-right"></i>
-                            Blank Page
+                            空白页
                         </a>
 
                         <b class="arrow"></b>
@@ -849,6 +850,7 @@
                 </ul>
             </li>
         </ul><!-- /.nav-list -->
+
     </div>
 @endsection
 @section('breadcrumbs')
@@ -858,10 +860,10 @@
 
     <div class="page-header">
         <h1>
-            Top Menu Style
+            顶部菜单风格
             <small>
                 <i class="ace-icon fa fa-angle-double-right"></i>
-                top menu &amp; navigation
+                顶部菜单 &amp; 导航
             </small>
         </h1>
     </div><!-- /.page-header -->
@@ -873,11 +875,11 @@
                 <button type="button" class="close" data-dismiss="alert">
                     <i class="ace-icon fa fa-times"></i>
                 </button>
-                Please note that
-                <span class="blue bolder">top menu style</span>
-                is visible only in devices larger than
+                请注意
+                <span class="blue bolder">顶部菜单风格</span>
+                在屏幕大于
                 <span class="blue bolder">991px</span>
-                which you can change using CSS builder tool.
+                才会可见
             </div>
 
             <div class="well well-sm visible-sm visible-xs">
@@ -893,7 +895,7 @@
                 <button type="button" class="sidebar-collapse btn btn-white btn-primary" data-target="#sidebar">
                     <i class="ace-icon fa fa-angle-double-up" data-icon1="ace-icon fa fa-angle-double-up"
                        data-icon2="ace-icon fa fa-angle-double-down"></i>
-                    Collapse/Expand Menu
+                    折叠/展开 菜单
                 </button>
             </div>
 

@@ -867,7 +867,7 @@
                         <li>
                             <a href="#">
                                 <i class="menu-icon fa fa-tachometer"></i>
-                                <span class="menu-text"> Dashboard </span>
+                                <span class="menu-text"> 控制台 </span>
                             </a>
 
                             <b class="arrow"></b>
@@ -876,7 +876,7 @@
                         <li>
                             <a href="#">
                                 <i class="menu-icon fa fa-list-alt"></i>
-                                <span class="menu-text">Widgets</span>
+                                <span class="menu-text">小部件</span>
                             </a>
 
                             <b class="arrow"></b>
@@ -887,7 +887,7 @@
                                 <i class="menu-icon fa fa-calendar"></i>
 
                                 <span class="menu-text">
-														Calendar
+														日历
 														<span title="" class="badge badge-transparent tooltip-error"
                                                               data-original-title="2 Important Events">
 															<i class="ace-icon fa fa-exclamation-triangle red bigger-130"></i>
@@ -901,7 +901,7 @@
                         <li>
                             <a href="#">
                                 <i class="menu-icon fa fa-picture-o"></i>
-                                <span class="menu-text"> Gallery </span>
+                                <span class="menu-text"> 相册 </span>
                             </a>
 
                             <b class="arrow"></b>
@@ -910,7 +910,7 @@
                         <li>
                             <a class="dropdown-toggle" href="#">
                                 <i class="menu-icon fa fa-tag"></i>
-                                <span class="menu-text"> More Pages </span>
+                                <span class="menu-text"> 更多页面 </span>
 
                                 <b class="arrow fa fa-angle-down"></b>
                             </a>
@@ -921,7 +921,7 @@
                                 <li>
                                     <a href="#">
                                         <i class="menu-icon fa fa-caret-right"></i>
-                                        User Profile
+                                        用户中心
                                     </a>
 
                                     <b class="arrow"></b>
@@ -930,7 +930,7 @@
                                 <li>
                                     <a href="#">
                                         <i class="menu-icon fa fa-caret-right"></i>
-                                        Inbox
+                                        收件箱
                                     </a>
 
                                     <b class="arrow"></b>
@@ -939,7 +939,7 @@
                                 <li>
                                     <a href="#">
                                         <i class="menu-icon fa fa-caret-right"></i>
-                                        Pricing Tables
+                                        价格表
                                     </a>
 
                                     <b class="arrow"></b>
@@ -948,7 +948,7 @@
                                 <li>
                                     <a href="#">
                                         <i class="menu-icon fa fa-caret-right"></i>
-                                        Invoice
+                                        发货单
                                     </a>
 
                                     <b class="arrow"></b>
@@ -957,7 +957,7 @@
                                 <li>
                                     <a href="#">
                                         <i class="menu-icon fa fa-caret-right"></i>
-                                        Timeline
+                                        时间轴
                                     </a>
 
                                     <b class="arrow"></b>
@@ -966,7 +966,7 @@
                                 <li>
                                     <a href="#">
                                         <i class="menu-icon fa fa-caret-right"></i>
-                                        Email Templates
+                                        邮箱模版
                                     </a>
 
                                     <b class="arrow"></b>
@@ -975,7 +975,7 @@
                                 <li>
                                     <a href="#">
                                         <i class="menu-icon fa fa-caret-right"></i>
-                                        Login &amp; Register
+                                        登录 &amp; 注册
                                     </a>
 
                                     <b class="arrow"></b>
@@ -988,7 +988,7 @@
                                 <i class="menu-icon fa fa-file-o"></i>
 
                                 <span class="menu-text">
-														Other Pages
+														其他页面
 														<span class="badge badge-primary">5</span>
 													</span>
 
@@ -1037,7 +1037,7 @@
                                 <li>
                                     <a href="#">
                                         <i class="menu-icon fa fa-caret-right"></i>
-                                        Blank Page
+                                        空白页
                                     </a>
 
                                     <b class="arrow"></b>

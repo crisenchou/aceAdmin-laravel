@@ -14,38 +14,38 @@
                         <option data-skin="skin-3" value="#D0D0D0">#D0D0D0</option>
                     </select>
                 </div>
-                <span>&nbsp; Choose Skin</span>
+                <span>&nbsp; 切换皮肤</span>
             </div>
 
             <div class="ace-settings-item">
                 <input type="checkbox" class="ace ace-checkbox-2 ace-save-state"
                        id="ace-settings-navbar" autocomplete="off"/>
-                <label class="lbl" for="ace-settings-navbar"> Fixed Navbar</label>
+                <label class="lbl" for="ace-settings-navbar"> 固定导航条</label>
             </div>
 
             <div class="ace-settings-item">
                 <input type="checkbox" class="ace ace-checkbox-2 ace-save-state"
                        id="ace-settings-sidebar" autocomplete="off"/>
-                <label class="lbl" for="ace-settings-sidebar"> Fixed Sidebar</label>
+                <label class="lbl" for="ace-settings-sidebar"> 固定侧边栏</label>
             </div>
 
             <div class="ace-settings-item">
                 <input type="checkbox" class="ace ace-checkbox-2 ace-save-state"
                        id="ace-settings-breadcrumbs" autocomplete="off"/>
-                <label class="lbl" for="ace-settings-breadcrumbs"> Fixed Breadcrumbs</label>
+                <label class="lbl" for="ace-settings-breadcrumbs"> 固定面包屑</label>
             </div>
 
             <div class="ace-settings-item">
                 <input type="checkbox" class="ace ace-checkbox-2" id="ace-settings-rtl"
                        autocomplete="off"/>
-                <label class="lbl" for="ace-settings-rtl"> Right To Left (rtl)</label>
+                <label class="lbl" for="ace-settings-rtl"> 左右切换</label>
             </div>
 
             <div class="ace-settings-item">
                 <input type="checkbox" class="ace ace-checkbox-2 ace-save-state"
                        id="ace-settings-add-container" autocomplete="off"/>
                 <label class="lbl" for="ace-settings-add-container">
-                    Inside
+                    内嵌
                     <b>.container</b>
                 </label>
             </div>
@@ -55,19 +55,19 @@
             <div class="ace-settings-item">
                 <input type="checkbox" class="ace ace-checkbox-2" id="ace-settings-hover"
                        autocomplete="off"/>
-                <label class="lbl" for="ace-settings-hover"> Submenu on Hover</label>
+                <label class="lbl" for="ace-settings-hover"> 悬停显示子菜单</label>
             </div>
 
             <div class="ace-settings-item">
                 <input type="checkbox" class="ace ace-checkbox-2" id="ace-settings-compact"
                        autocomplete="off"/>
-                <label class="lbl" for="ace-settings-compact"> Compact Sidebar</label>
+                <label class="lbl" for="ace-settings-compact"> 缩小侧边栏</label>
             </div>
 
             <div class="ace-settings-item">
                 <input type="checkbox" class="ace ace-checkbox-2" id="ace-settings-highlight"
                        autocomplete="off"/>
-                <label class="lbl" for="ace-settings-highlight"> Alt. Active Item</label>
+                <label class="lbl" for="ace-settings-highlight"> 更改菜单active样式</label>
             </div>
         </div><!-- /.pull-left -->
     </div><!-- /.ace-settings-box -->

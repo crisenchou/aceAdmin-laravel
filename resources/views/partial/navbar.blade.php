@@ -2,14 +2,10 @@
     <div class="navbar-container ace-save-state" id="navbar-container">
         <button type="button" class="navbar-toggle menu-toggler pull-left" id="menu-toggler" data-target="#sidebar">
             <span class="sr-only">Toggle sidebar</span>
-
             <span class="icon-bar"></span>
-
             <span class="icon-bar"></span>
-
             <span class="icon-bar"></span>
         </button>
-
         <div class="navbar-header pull-left">
             <a href="index.html" class="navbar-brand">
                 <small>
@@ -18,7 +14,6 @@
                 </small>
             </a>
         </div>
-
         <div class="navbar-buttons navbar-header pull-right" role="navigation">
             <ul class="nav ace-nav">
                 <li class="grey dropdown-modal">
@@ -26,11 +21,10 @@
                         <i class="ace-icon fa fa-tasks"></i>
                         <span class="badge badge-grey">4</span>
                     </a>
-
                     <ul class="dropdown-menu-right dropdown-navbar dropdown-menu dropdown-caret dropdown-close">
                         <li class="dropdown-header">
                             <i class="ace-icon fa fa-check"></i>
-                            4 Tasks to complete
+                            4个任务需要完成
                         </li>
 
                         <li class="dropdown-content">
@@ -38,7 +32,7 @@
                                 <li>
                                     <a href="#">
                                         <div class="clearfix">
-                                            <span class="pull-left">Software Update</span>
+                                            <span class="pull-left">软件更新</span>
                                             <span class="pull-right">65%</span>
                                         </div>
 
@@ -51,7 +45,7 @@
                                 <li>
                                     <a href="#">
                                         <div class="clearfix">
-                                            <span class="pull-left">Hardware Upgrade</span>
+                                            <span class="pull-left">硬件升级</span>
                                             <span class="pull-right">35%</span>
                                         </div>
 
@@ -64,7 +58,7 @@
                                 <li>
                                     <a href="#">
                                         <div class="clearfix">
-                                            <span class="pull-left">Unit Testing</span>
+                                            <span class="pull-left">单元测试</span>
                                             <span class="pull-right">15%</span>
                                         </div>
 
@@ -77,7 +71,7 @@
                                 <li>
                                     <a href="#">
                                         <div class="clearfix">
-                                            <span class="pull-left">Bug Fixes</span>
+                                            <span class="pull-left">Bug修复</span>
                                             <span class="pull-right">90%</span>
                                         </div>
 
@@ -91,13 +85,12 @@
 
                         <li class="dropdown-footer">
                             <a href="#">
-                                See tasks with details
+                                查看任务详情
                                 <i class="ace-icon fa fa-arrow-right"></i>
                             </a>
                         </li>
                     </ul>
                 </li>
-
                 <li class="purple dropdown-modal">
                     <a data-toggle="dropdown" class="dropdown-toggle" href="#">
                         <i class="ace-icon fa fa-bell icon-animated-bell"></i>
@@ -107,7 +100,7 @@
                     <ul class="dropdown-menu-right dropdown-navbar navbar-pink dropdown-menu dropdown-caret dropdown-close">
                         <li class="dropdown-header">
                             <i class="ace-icon fa fa-exclamation-triangle"></i>
-                            8 Notifications
+                            8条通知
                         </li>
 
                         <li class="dropdown-content">
@@ -117,7 +110,7 @@
                                         <div class="clearfix">
 													<span class="pull-left">
 														<i class="btn btn-xs no-hover btn-pink fa fa-comment"></i>
-														New Comments
+														新评论
 													</span>
                                             <span class="pull-right badge badge-info">+12</span>
                                         </div>
@@ -127,7 +120,7 @@
                                 <li>
                                     <a href="#">
                                         <i class="btn btn-xs btn-primary fa fa-user"></i>
-                                        Bob just signed up as an editor ...
+                                        新增注册人员 ...
                                     </a>
                                 </li>
 
@@ -136,7 +129,7 @@
                                         <div class="clearfix">
 													<span class="pull-left">
 														<i class="btn btn-xs no-hover btn-success fa fa-shopping-cart"></i>
-														New Orders
+														新的订单
 													</span>
                                             <span class="pull-right badge badge-success">+8</span>
                                         </div>
@@ -148,7 +141,7 @@
                                         <div class="clearfix">
 													<span class="pull-left">
 														<i class="btn btn-xs no-hover btn-info fa fa-twitter"></i>
-														Followers
+														关注着
 													</span>
                                             <span class="pull-right badge badge-info">+11</span>
                                         </div>
@@ -159,7 +152,7 @@
 
                         <li class="dropdown-footer">
                             <a href="#">
-                                See all notifications
+                                查看所有通知
                                 <i class="ace-icon fa fa-arrow-right"></i>
                             </a>
                         </li>
@@ -269,7 +262,7 @@
 
                         <li class="dropdown-footer">
                             <a href="inbox.html">
-                                See all messages
+                                查看所有消息
                                 <i class="ace-icon fa fa-arrow-right"></i>
                             </a>
                         </li>
@@ -280,8 +273,8 @@
                     <a data-toggle="dropdown" href="#" class="dropdown-toggle">
                         <img class="nav-user-photo" src="assets/images/avatars/user.jpg" alt="Jason's Photo" />
                         <span class="user-info">
-									<small>Welcome,</small>
-									Jason
+									<small>欢迎,</small>
+									管理员
 								</span>
 
                         <i class="ace-icon fa fa-caret-down"></i>
@@ -291,14 +284,14 @@
                         <li>
                             <a href="#">
                                 <i class="ace-icon fa fa-cog"></i>
-                                Settings
+                                设置
                             </a>
                         </li>
 
                         <li>
                             <a href="profile.html">
                                 <i class="ace-icon fa fa-user"></i>
-                                Profile
+                                个人中心
                             </a>
                         </li>
 
@@ -307,7 +300,7 @@
                         <li>
                             <a href="#">
                                 <i class="ace-icon fa fa-power-off"></i>
-                                Logout
+                                注销
                             </a>
                         </li>
                     </ul>

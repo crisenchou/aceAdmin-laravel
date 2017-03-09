@@ -6,7 +6,7 @@
                 <div class="widget-main">
                     <h4 class="header blue lighter bigger">
                         <i class="ace-icon fa fa-coffee green"></i>
-                        Please Enter Your Information
+                        请输入您的用户信息
                     </h4>
 
                     <div class="space-6"></div>
@@ -16,7 +16,7 @@
                             <label class="block clearfix">
 														<span class="block input-icon input-icon-right">
 															<input type="text" class="form-control"
-                                                                   placeholder="Username"/>
+                                                                   placeholder="用户名"/>
 															<i class="ace-icon fa fa-user"></i>
 														</span>
                             </label>
@@ -24,7 +24,7 @@
                             <label class="block clearfix">
 														<span class="block input-icon input-icon-right">
 															<input type="password" class="form-control"
-                                                                   placeholder="Password"/>
+                                                                   placeholder="密码"/>
 															<i class="ace-icon fa fa-lock"></i>
 														</span>
                             </label>
@@ -34,12 +34,12 @@
                             <div class="clearfix">
                                 <label class="inline">
                                     <input type="checkbox" class="ace"/>
-                                    <span class="lbl"> Remember Me</span>
+                                    <span class="lbl"> 记住我</span>
                                 </label>
 
                                 <button type="button" class="width-35 pull-right btn btn-sm btn-primary">
                                     <i class="ace-icon fa fa-key"></i>
-                                    <span class="bigger-110">Login</span>
+                                    <span class="bigger-110">登录</span>
                                 </button>
                             </div>
 
@@ -48,7 +48,7 @@
                     </form>
 
                     <div class="social-or-login center">
-                        <span class="bigger-110">Or Login Using</span>
+                        <span class="bigger-110">使用其他账户登陆</span>
                     </div>
 
                     <div class="space-6"></div>
@@ -72,13 +72,13 @@
                     <div>
                         <a href="#" data-target="#forgot-box" class="forgot-password-link">
                             <i class="ace-icon fa fa-arrow-left"></i>
-                            I forgot my password
+                            忘记密码
                         </a>
                     </div>
 
                     <div>
                         <a href="#" data-target="#signup-box" class="user-signup-link">
-                            I want to register
+                            注册
                             <i class="ace-icon fa fa-arrow-right"></i>
                         </a>
                     </div>
@@ -91,12 +91,12 @@
                 <div class="widget-main">
                     <h4 class="header red lighter bigger">
                         <i class="ace-icon fa fa-key"></i>
-                        Retrieve Password
+                        重置密码
                     </h4>
 
                     <div class="space-6"></div>
                     <p>
-                        Enter your email and to receive instructions
+                        填写邮箱并接受消息
                     </p>
 
                     <form>
@@ -112,7 +112,7 @@
                             <div class="clearfix">
                                 <button type="button" class="width-35 pull-right btn btn-sm btn-danger">
                                     <i class="ace-icon fa fa-lightbulb-o"></i>
-                                    <span class="bigger-110">Send Me!</span>
+                                    <span class="bigger-110">发送/span>
                                 </button>
                             </div>
                         </fieldset>
@@ -121,7 +121,7 @@
 
                 <div class="toolbar center">
                     <a href="#" data-target="#login-box" class="back-to-login-link">
-                        Back to login
+                        返回登陆
                         <i class="ace-icon fa fa-arrow-right"></i>
                     </a>
                 </div>
@@ -133,18 +133,18 @@
                 <div class="widget-main">
                     <h4 class="header green lighter bigger">
                         <i class="ace-icon fa fa-users blue"></i>
-                        New User Registration
+                        注册新用户
                     </h4>
 
                     <div class="space-6"></div>
-                    <p> Enter your details to begin: </p>
+                    <p> 填写用户信息 </p>
 
                     <form>
                         <fieldset>
                             <label class="block clearfix">
 														<span class="block input-icon input-icon-right">
 															<input type="email" class="form-control"
-                                                                   placeholder="Email"/>
+                                                                   placeholder="邮箱"/>
 															<i class="ace-icon fa fa-envelope"></i>
 														</span>
                             </label>
@@ -152,7 +152,7 @@
                             <label class="block clearfix">
 														<span class="block input-icon input-icon-right">
 															<input type="text" class="form-control"
-                                                                   placeholder="Username"/>
+                                                                   placeholder="用户名"/>
 															<i class="ace-icon fa fa-user"></i>
 														</span>
                             </label>
@@ -160,7 +160,7 @@
                             <label class="block clearfix">
 														<span class="block input-icon input-icon-right">
 															<input type="password" class="form-control"
-                                                                   placeholder="Password"/>
+                                                                   placeholder="密码"/>
 															<i class="ace-icon fa fa-lock"></i>
 														</span>
                             </label>
@@ -168,7 +168,7 @@
                             <label class="block clearfix">
 														<span class="block input-icon input-icon-right">
 															<input type="password" class="form-control"
-                                                                   placeholder="Repeat password"/>
+                                                                   placeholder="重复密码"/>
 															<i class="ace-icon fa fa-retweet"></i>
 														</span>
                             </label>
@@ -176,8 +176,8 @@
                             <label class="block">
                                 <input type="checkbox" class="ace"/>
                                 <span class="lbl">
-															I accept the
-															<a href="#">User Agreement</a>
+															我接受
+															<a href="#">用户协议许可</a>
 														</span>
                             </label>
 
@@ -186,11 +186,11 @@
                             <div class="clearfix">
                                 <button type="reset" class="width-30 pull-left btn btn-sm">
                                     <i class="ace-icon fa fa-refresh"></i>
-                                    <span class="bigger-110">Reset</span>
+                                    <span class="bigger-110">重置</span>
                                 </button>
 
                                 <button type="button" class="width-65 pull-right btn btn-sm btn-success">
-                                    <span class="bigger-110">Register</span>
+                                    <span class="bigger-110">注册</span>
 
                                     <i class="ace-icon fa fa-arrow-right icon-on-right"></i>
                                 </button>
@@ -202,7 +202,7 @@
                 <div class="toolbar center">
                     <a href="#" data-target="#login-box" class="back-to-login-link">
                         <i class="ace-icon fa fa-arrow-left"></i>
-                        Back to login
+                        返回登录
                     </a>
                 </div>
             </div><!-- /.widget-body -->
