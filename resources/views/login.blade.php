@@ -14,19 +14,17 @@
                     <form>
                         <fieldset>
                             <label class="block clearfix">
-														<span class="block input-icon input-icon-right">
-															<input type="text" class="form-control"
-                                                                   placeholder="用户名"/>
-															<i class="ace-icon fa fa-user"></i>
-														</span>
+                                <span class="block input-icon input-icon-right">
+                                    <input type="text" class="form-control" placeholder="用户名"/>
+                                    <i class="ace-icon fa fa-user"></i>
+                                </span>
                             </label>
 
                             <label class="block clearfix">
-														<span class="block input-icon input-icon-right">
-															<input type="password" class="form-control"
-                                                                   placeholder="密码"/>
-															<i class="ace-icon fa fa-lock"></i>
-														</span>
+                                <span class="block input-icon input-icon-right">
+                                    <input type="password" class="form-control" placeholder="密码"/>
+                                    <i class="ace-icon fa fa-lock"></i>
+                                </span>
                             </label>
 
                             <div class="space"></div>
@@ -102,17 +100,16 @@
                     <form>
                         <fieldset>
                             <label class="block clearfix">
-														<span class="block input-icon input-icon-right">
-															<input type="email" class="form-control"
-                                                                   placeholder="Email"/>
-															<i class="ace-icon fa fa-envelope"></i>
-														</span>
+                                <span class="block input-icon input-icon-right">
+                                    <input type="email" class="form-control" placeholder="Email"/>
+                                    <i class="ace-icon fa fa-envelope"></i>
+                                </span>
                             </label>
 
                             <div class="clearfix">
                                 <button type="button" class="width-35 pull-right btn btn-sm btn-danger">
                                     <i class="ace-icon fa fa-lightbulb-o"></i>
-                                    <span class="bigger-110">发送/span>
+                                    <span class="bigger-110">发送</span>
                                 </button>
                             </div>
                         </fieldset>
@@ -142,43 +139,40 @@
                     <form>
                         <fieldset>
                             <label class="block clearfix">
-														<span class="block input-icon input-icon-right">
-															<input type="email" class="form-control"
-                                                                   placeholder="邮箱"/>
-															<i class="ace-icon fa fa-envelope"></i>
-														</span>
+                                <span class="block input-icon input-icon-right">
+                                    <input type="email" class="form-control" placeholder="邮箱"/>
+                                    <i class="ace-icon fa fa-envelope"></i>
+                                </span>
                             </label>
 
                             <label class="block clearfix">
-														<span class="block input-icon input-icon-right">
-															<input type="text" class="form-control"
-                                                                   placeholder="用户名"/>
-															<i class="ace-icon fa fa-user"></i>
-														</span>
+                                <span class="block input-icon input-icon-right">
+                                    <input type="text" class="form-control"
+                                           placeholder="用户名"/>
+                                    <i class="ace-icon fa fa-user"></i>
+                                </span>
                             </label>
 
                             <label class="block clearfix">
-														<span class="block input-icon input-icon-right">
-															<input type="password" class="form-control"
-                                                                   placeholder="密码"/>
-															<i class="ace-icon fa fa-lock"></i>
-														</span>
+                                <span class="block input-icon input-icon-right">
+                                    <input type="password" class="form-control" placeholder="密码"/>
+                                    <i class="ace-icon fa fa-lock"></i>
+                                </span>
                             </label>
 
                             <label class="block clearfix">
-														<span class="block input-icon input-icon-right">
-															<input type="password" class="form-control"
-                                                                   placeholder="重复密码"/>
-															<i class="ace-icon fa fa-retweet"></i>
-														</span>
+                                <span class="block input-icon input-icon-right">
+                                    <input type="password" class="form-control" placeholder="重复密码"/>
+                                    <i class="ace-icon fa fa-retweet"></i>
+                                </span>
                             </label>
 
                             <label class="block">
                                 <input type="checkbox" class="ace"/>
                                 <span class="lbl">
-															我接受
-															<a href="#">用户协议许可</a>
-														</span>
+                                    我接受
+                                    <a href="#">用户协议许可</a>
+                                </span>
                             </label>
 
                             <div class="space-24"></div>

@@ -128,7 +128,7 @@
             <li class="">
                 <a href="treeview.html">
                     <i class="menu-icon fa fa-caret-right"></i>
-                    树形师徒
+                    树形视图
                 </a>
 
                 <b class="arrow"></b>
