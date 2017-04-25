@@ -774,9 +774,8 @@
                                 <label>
                                     <input name="switch-field-1" class="ace ace-switch ace-switch-7" type="checkbox"/>
                                     <span class="lbl"></span>
-                                </label>
+                                </label> Text Field
                             </div>
-                        </div>
 
                         <div class="row">
                             <div class="col-xs-3">

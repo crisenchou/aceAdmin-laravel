@@ -205,7 +205,7 @@
 @endsection
 @push('scripts')
 <!-- page specific plugin scripts -->
-<script src="assets/js/jquery.nestable.min.js"></script>
+<script src="{{asset('assets/js/jquery.nestable.min.js')}}"></script>
 <!-- inline scripts related to this page -->
 <script type="text/javascript">
     jQuery(function ($) {
