@@ -1,13 +1,13 @@
 @extends('layouts.app')
 @push('css')
 <!-- page specific plugin styles -->
-<link rel="stylesheet" href="assets/css/jquery-ui.custom.min.css" />
-<link rel="stylesheet" href="assets/css/chosen.min.css" />
-<link rel="stylesheet" href="assets/css/bootstrap-datepicker3.min.css" />
-<link rel="stylesheet" href="assets/css/bootstrap-timepicker.min.css" />
-<link rel="stylesheet" href="assets/css/daterangepicker.min.css" />
-<link rel="stylesheet" href="assets/css/bootstrap-datetimepicker.min.css" />
-<link rel="stylesheet" href="assets/css/bootstrap-colorpicker.min.css" />
+<link rel="stylesheet" href="{{asset('assets/css/jquery-ui.custom.min.css')}}"/>
+<link rel="stylesheet" href="{{asset('assets/css/chosen.min.css')}}"/>
+<link rel="stylesheet" href="{{asset('assets/css/bootstrap-datepicker3.min.css')}}" />
+<link rel="stylesheet" href="{{asset('assets/css/bootstrap-timepicker.min.css')}}" />
+<link rel="stylesheet" href="{{asset('assets/css/daterangepicker.min.css')}}" />
+<link rel="stylesheet" href="{{asset('assets/css/bootstrap-datetimepicker.min.css')}}" />
+<link rel="stylesheet" href="{{asset('assets/css/bootstrap-colorpicker.min.css')}}" />
 @endpush
 @section('breadcrumbs')
     <div class="breadcrumbs ace-save-state" id="breadcrumbs">
@@ -419,7 +419,7 @@
                                             <option value="AZ">Arizona</option>
                                             <option value="AR">Arkansas</option>
                                             <option value="CA">California</option>
-                                            <option value="CO">Colorado</option>
+                                            <option value="CO">Colorado</option>Custom File Input
                                             <option value="CT">Connecticut</option>
                                             <option value="DE">Delaware</option>
                                             <option value="FL">Florida</option>
@@ -1376,25 +1376,24 @@
     </div><!-- /.row -->
 @endsection
 @push('scripts')
-
 <!--[if lte IE 8]>
-<script src="assets/js/excanvas.min.js"></script>
+<script src="{{asset('assets/js/excanvas.min.js')}}"></script>
 <![endif]-->
-    <script src="assets/js/jquery-ui.custom.min.js"></script>
-    <script src="assets/js/jquery.ui.touch-punch.min.js"></script>
-    <script src="assets/js/chosen.jquery.min.js"></script>
-    <script src="assets/js/spinbox.min.js"></script>
-    <script src="assets/js/bootstrap-datepicker.min.js"></script>
-    <script src="assets/js/bootstrap-timepicker.min.js"></script>
-    <script src="assets/js/moment.min.js"></script>
-    <script src="assets/js/daterangepicker.min.js"></script>
-    <script src="assets/js/bootstrap-datetimepicker.min.js"></script>
-    <script src="assets/js/bootstrap-colorpicker.min.js"></script>
-    <script src="assets/js/jquery.knob.min.js"></script>
-    <script src="assets/js/autosize.min.js"></script>
-    <script src="assets/js/jquery.inputlimiter.min.js"></script>
-    <script src="assets/js/jquery.maskedinput.min.js"></script>
-    <script src="assets/js/bootstrap-tag.min.js"></script>
+    <script src="{{asset('assets/js/jquery-ui.custom.min.js')}}"></script>
+    <script src="{{asset('assets/js/jquery.ui.touch-punch.min.js')}}"></script>
+    <script src="{{asset('assets/js/chosen.jquery.min.js')}}"></script>
+    <script src="{{asset('assets/js/spinbox.min.js')}}"></script>
+    <script src="{{asset('assets/js/bootstrap-datepicker.min.js')}}"></script>
+    <script src="{{asset('assets/js/bootstrap-timepicker.min.js')}}"></script>
+    <script src="{{asset('assets/js/moment.min.js')}}"></script>
+    <script src="{{asset('assets/js/daterangepicker.min.js')}}"></script>
+    <script src="{{asset('assets/js/bootstrap-datetimepicker.min.js')}}"></script>
+    <script src="{{asset('assets/js/bootstrap-colorpicker.min.js')}}"></script>
+    <script src="{{asset('assets/js/jquery.knob.min.js')}}"></script>
+    <script src="{{asset('assets/js/autosize.min.js')}}"></script>
+    <script src="{{asset('assets/js/jquery.inputlimiter.min.js')}}"></script>
+    <script src="{{asset('assets/js/jquery.maskedinput.min.js')}}"></script>
+    <script src="{{asset('assets/js/bootstrap-tag.min.js')}}"></script>
 <!-- inline scripts related to this page -->
 <script type="text/javascript">
     jQuery(function ($) {
@@ -1865,5 +1864,3 @@
     });
 </script>
 @endpush
-
-
