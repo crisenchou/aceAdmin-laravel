@@ -1,6 +1,6 @@
 @extends('layouts.app')
 @push('css')
-<link rel="stylesheet" href="assets/css/jquery-ui.custom.min.css"/>
+<link rel="stylesheet" href="{{asset('assets/css/jquery-ui.custom.min.css')}}"/>
 @endpush
 @section('breadcrumbs')
     <div class="breadcrumbs ace-save-state" id="breadcrumbs">
@@ -152,13 +152,13 @@
 @push('scripts')
 
 <!-- page specific plugin scripts -->
-<script src="assets/js/jquery-ui.custom.min.js"></script>
-<script src="assets/js/jquery.ui.touch-punch.min.js"></script>
-<script src="assets/js/markdown.min.js"></script>
-<script src="assets/js/bootstrap-markdown.min.js"></script>
-<script src="assets/js/jquery.hotkeys.index.min.js"></script>
-<script src="assets/js/bootstrap-wysiwyg.min.js"></script>
-<script src="assets/js/bootbox.js"></script>
+<script src="{{asset('assets/js/jquery-ui.custom.min.js')}}"></script>
+<script src="{{asset('assets/js/jquery.ui.touch-punch.min.js')}}"></script>
+<script src="{{asset('assets/js/markdown.min.js')}}"></script>
+<script src="{{asset('assets/js/bootstrap-markdown.min.js')}}"></script>
+<script src="{{asset('assets/js/jquery.hotkeys.index.min.js')}}"></script>
+<script src="{{asset('assets/js/bootstrap-wysiwyg.min.js')}}"></script>
+<script src="{{asset('assets/js/bootbox.js')}}"></script>
 
 <!-- inline scripts related to this page -->
 <script type="text/javascript">

@@ -1,11 +1,11 @@
 @extends('layouts.app')
 @push('css')
 <!-- page specific plugin styles -->
-<link rel="stylesheet" href="assets/css/jquery-ui.custom.min.css"/>
-<link rel="stylesheet" href="assets/css/jquery.gritter.min.css"/>
-<link rel="stylesheet" href="assets/css/select2.min.css"/>
-<link rel="stylesheet" href="assets/css/bootstrap-datepicker3.min.css"/>
-<link rel="stylesheet" href="assets/css/bootstrap-editable.min.css"/>
+<link rel="stylesheet" href="{{asset('assets/css/jquery-ui.custom.min.css')}}"/>
+<link rel="stylesheet" href="{{asset('assets/css/jquery.gritter.min.css')}}"/>
+<link rel="stylesheet" href="{{asset('assets/css/select2.min.css')}}"/>
+<link rel="stylesheet" href="{{asset('assets/css/bootstrap-datepicker3.min.css')}}"/>
+<link rel="stylesheet" href="{{asset('assets/css/bootstrap-editable.min.css')}}"/>
 @endpush
 @section('breadcrumbs')
     <div class="breadcrumbs ace-save-state" id="breadcrumbs">
@@ -2047,22 +2047,22 @@
     </div><!-- /.row -->
     @endsection
 @push('scripts')
-		<!--[if lte IE 8]>
-    <script src="assets/js/excanvas.min.js"></script>
+	<!--[if lte IE 8]>
+    <script src="{{asset('assets/js/excanvas.min.js')}}"></script>
     <![endif]-->
-    <script src="assets/js/jquery-ui.custom.min.js"></script>
-    <script src="assets/js/jquery.ui.touch-punch.min.js"></script>
-    <script src="assets/js/jquery.gritter.min.js"></script>
-    <script src="assets/js/bootbox.js"></script>
-    <script src="assets/js/jquery.easypiechart.min.js"></script>
-    <script src="assets/js/bootstrap-datepicker.min.js"></script>
-    <script src="assets/js/jquery.hotkeys.index.min.js"></script>
-    <script src="assets/js/bootstrap-wysiwyg.min.js"></script>
-    <script src="assets/js/select2.min.js"></script>
-    <script src="assets/js/spinbox.min.js"></script>
-    <script src="assets/js/bootstrap-editable.min.js"></script>
-    <script src="assets/js/ace-editable.min.js"></script>
-    <script src="assets/js/jquery.maskedinput.min.js"></script>
+    <script src="{{asset('assets/js/jquery-ui.custom.min.js')}}"></script>
+    <script src="{{asset('assets/js/jquery.ui.touch-punch.min.js')}}"></script>
+    <script src="{{asset('assets/js/jquery.gritter.min.js')}}"></script>
+    <script src="{{asset('assets/js/bootbox.js')}}"></script>
+    <script src="{{asset('assets/js/jquery.easypiechart.min.js')}}"></script>
+    <script src="{{asset('assets/js/bootstrap-datepicker.min.js')}}"></script>
+    <script src="{{asset('assets/js/jquery.hotkeys.index.min.js')}}"></script>
+    <script src="{{asset('assets/js/bootstrap-wysiwyg.min.js')}}"></script>
+    <script src="{{asset('assets/js/select2.min.js')}}"></script>
+    <script src="{{asset('assets/js/spinbox.min.js')}}"></script>
+    <script src="{{asset('assets/js/bootstrap-editable.min.js')}}"></script>
+    <script src="{{asset('assets/js/ace-editable.min.js')}}"></script>
+    <script src="{{asset('assets/js/jquery.maskedinput.min.js')}}"></script>
     <!-- inline scripts related to this page -->
     <script type="text/javascript">
         jQuery(function ($) {
