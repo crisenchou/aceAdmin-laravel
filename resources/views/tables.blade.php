@@ -2845,14 +2845,14 @@
 @endsection
 @push('scripts')
 <!-- page specific plugin scripts -->
-<script src="assets/js/jquery.dataTables.min.js"></script>
-<script src="assets/js/jquery.dataTables.bootstrap.min.js"></script>
-<script src="assets/js/dataTables.buttons.min.js"></script>
-<script src="assets/js/buttons.flash.min.js"></script>
-<script src="assets/js/buttons.html5.min.js"></script>
-<script src="assets/js/buttons.print.min.js"></script>
-<script src="assets/js/buttons.colVis.min.js"></script>
-<script src="assets/js/dataTables.select.min.js"></script>
+<script src="{{asset('assets/js/jquery.dataTables.min.js')}}"></script>
+<script src="{{asset('assets/js/jquery.dataTables.bootstrap.min.js')}}"></script>
+<script src="{{asset('assets/js/dataTables.buttons.min.js')}}"></script>
+<script src="{{asset('assets/js/buttons.flash.min.js')}}"></script>
+<script src="{{asset('assets/js/buttons.html5.min.js')}}"></script>
+<script src="{{asset('assets/js/buttons.print.min.js')}}"></script>
+<script src="{{asset('assets/js/buttons.colVis.min.js')}}"></script>
+<script src="{{asset('assets/js/dataTables.select.min.js')}}"></script>
 <!-- inline scripts related to this page -->
 <script type="text/javascript">
     jQuery(function ($) {
