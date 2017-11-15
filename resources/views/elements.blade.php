@@ -999,15 +999,17 @@
 
 
         $('.easy-pie-chart.percentage').each(function () {
+
+            var color = $(this).data('color') || $(this).attr('data-color');
             $(this).easyPieChart({
-                barColor: $(this).data('color'),
+                barColor: color,
                 trackColor: '#EEEEEE',
                 scaleColor: false,
                 lineCap: 'butt',
                 lineWidth: 8,
                 animate: ace.vars['old_ie'] ? false : 1000,
                 size: 75
-            }).css('color', $(this).data('color'));
+            }).css('color', color);
         });
 
         $('[data-rel=tooltip]').tooltip();
