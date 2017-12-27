@@ -963,6 +963,15 @@
 @endsection
 
 @push('scripts')
+<!--[if lte IE 8]>
+<script src="assets/js/excanvas.min.js"></script>
+<![endif]-->
+<script src="assets/js/jquery-ui.custom.min.js"></script>
+<script src="assets/js/jquery.ui.touch-punch.min.js"></script>
+<script src="assets/js/bootbox.js"></script>
+<script src="assets/js/jquery.easypiechart.min.js"></script>
+<script src="assets/js/jquery.gritter.min.js"></script>
+<script src="assets/js/spin.js"></script>
 
 <!-- inline scripts related to this page -->
 <script type="text/javascript">
