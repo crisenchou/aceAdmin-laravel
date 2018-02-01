@@ -1,8 +1,8 @@
 @extends('layouts.app')
 @push('css')
-<link rel="stylesheet" href="assets/css/bootstrap-duallistbox.min.css" />
-<link rel="stylesheet" href="assets/css/bootstrap-multiselect.min.css" />
-<link rel="stylesheet" href="assets/css/select2.min.css" />
+<link rel="stylesheet" href="{{asset('assets/css/bootstrap-duallistbox.min.css')}}" />
+<link rel="stylesheet" href="{{asset('assets/css/bootstrap-multiselect.min.css')}}" />
+<link rel="stylesheet" href="{{asset('assets/css/select2.min.css')}}" />
 @endpush
 @section('breadcrumbs')
     <div class="breadcrumbs ace-save-state" id="breadcrumbs">
@@ -185,11 +185,11 @@
 @endsection
 @push('scripts')
 <!-- page specific plugin scripts -->
-<script src="assets/js/jquery.bootstrap-duallistbox.min.js"></script>
-<script src="assets/js/jquery.raty.min.js"></script>
-<script src="assets/js/bootstrap-multiselect.min.js"></script>
-<script src="assets/js/select2.min.js"></script>
-<script src="assets/js/jquery-typeahead.js"></script>
+<script src="{{asset('assets/js/jquery.bootstrap-duallistbox.min.js')}}"></script>
+<script src="{{asset('assets/js/jquery.raty.min.js')}}"></script>
+<script src="{{asset('assets/js/bootstrap-multiselect.min.j')}}s"></script>
+<script src="{{asset('assets/js/select2.min.js')}}"></script>
+<script src="{{asset('assets/js/jquery-typeahead.js')}}"></script>
 <!-- inline scripts related to this page -->
 <script type="text/javascript">
     jQuery(function ($) {
