@@ -2529,7 +2529,7 @@
 
                                 <td>
                                     <div class="hidden-sm hidden-xs action-buttons">
-                                        <a class="blue" href="#">
+                                        <a class="blue" href="">
                                             <i class="ace-icon fa fa-search-plus bigger-130"></i>
                                         </a>
 
